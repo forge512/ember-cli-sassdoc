@@ -16,11 +16,10 @@
   "author": "Daniil Filippov <filippovdaniil@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "sassdoc": "^2.5.0"
-  },
-  "peerDependencies": {
     "chalk": "^2.3.0",
-    "express": "^4.16.0"
+    "console-ui": "^2.0.1",
+    "express": "^4.16.0",
+    "sassdoc": "^2.5.0"
   },
   "repository": {
     "type": "git",
