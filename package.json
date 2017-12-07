@@ -16,18 +16,18 @@
   "author": "Daniil Filippov <filippovdaniil@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "sassdoc": "^2.1.20"
+    "sassdoc": "^2.5.0"
   },
   "peerDependencies": {
-    "chalk": "1.x",
-    "express": "4.x"
+    "chalk": "^2.3.0",
+    "express": "^4.16.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/filippovdaniil/ember-cli-sassdoc"
+    "url": "https://github.com/forge512/ember-cli-sassdoc"
   },
   "bugs": {
-    "url": "https://github.com/filippovdaniil/ember-cli-sassdoc/issues"
+    "url": "https://github.com/forge512/ember-cli-sassdoc/issues"
   },
-  "homepage": "https://github.com/filippovdaniil/ember-cli-sassdoc"
+  "homepage": "https://github.com/forge512/ember-cli-sassdoc"
 }
